@@ -1,0 +1,28 @@
+name: Highlands Green
+favicon: null
+layout_spectrum: 0.6527788927778602
+typography_spectrum: 0.19220360508188605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2472609025426209
+  lightness: 0.1153071983717382
+  saturation: 0.8619807388167828
+  rhythmicContrast: 0.7915716811548918
+purpose: []
