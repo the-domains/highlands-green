@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Highlands Green]]></title>
         <description><![CDATA[Highlands Green]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/highlands-green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 11:07:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 12:03:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/highlands-green/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How did Highlands Green begin? Dr. Michel Vandenhautte M.D. was a jungle medic in Burma helping the wounded involved in the struggle for freedom. His interest in turmeric [circuma longan] was piqued when he saw a paralysed villager actually begin to walk again after being wrapped in a poultice of turmeric and black pepper.</p>]]></description>
-            <link>undefined12955014-0cc6-4627-9d5c-c08ffc99c992/index.html</link>
+            <title><![CDATA[Highlands Green Beginnings]]></title>
+            <description><![CDATA[<article><h1>Highlands Green Beginnings</h1><p>How did Highlands Green begin? Dr. Michel Vandenhautte M.D. was a jungle medic in Burma helping the wounded involved in the struggle for freedom. His interest in turmeric [circuma longan] was piqued when he saw a paralysed villager actually begin to walk again after being wrapped in a poultice of turmeric and black pepper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f14eb718d0ebc6c580898bcf0b89bd5411cbd8e5.png"></article>]]></description>
+            <link>https://thegrid.ai/highlands-green/12955014-0cc6-4627-9d5c-c08ffc99c992/index.html</link>
             <guid isPermaLink="false">12955014-0cc6-4627-9d5c-c08ffc99c992</guid>
-            <pubDate>Thu, 04 Feb 2016 11:07:22 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 12:02:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
