@@ -1,29 +1,41 @@
-name: Highlands Green
-favicon: null
-layout_spectrum: 0.6527788927778602
-typography_spectrum: 0.19220360508188605
 title: Highlands Green
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8619807
+  brandStrength: 0.2472609025426209
+  lightness: 0.3972431
+  brandColors:
+    - '#1A2550'
+    - '#C7C2BC'
+    - '#5B6990'
+    - '#394871'
+    - '#868791'
+  rhythmicContrast: 0.7915717
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Highlands Green
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.2472609025426209
-  lightness: 0.1153071983717382
-  saturation: 0.8619807388167828
-  rhythmicContrast: 0.7915716811548918
-purpose: []
+typography_spectrum: 0.9323308
+layout_spectrum: 1
