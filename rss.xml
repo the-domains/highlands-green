@@ -4,7 +4,7 @@
         <description><![CDATA[Highlands Green]]></description>
         <link>https://thegrid.ai/highlands-green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 08:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 08:45:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/highlands-green/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/highlands-green/this-is-a-test-for-highlands-green/index.html</link>
             <guid isPermaLink="false">f86c41d3-d04d-4406-a282-580df49e068b</guid>
             <pubDate>Wed, 04 May 2016 08:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Highlands Green Beginnings]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c6bcb94-4828-42ed-b27f-b11fa96e7e59.png">]]></description>
-            <link>https://thegrid.ai/highlands-green/12955014-0cc6-4627-9d5c-c08ffc99c992/index.html</link>
-            <guid isPermaLink="false">12955014-0cc6-4627-9d5c-c08ffc99c992</guid>
-            <pubDate>Mon, 15 Feb 2016 12:02:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
