@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.8619807
-  brandStrength: 0.2472609025426209
+  brandStrength: 0.7689713
   lightness: 0.3972431
   brandColors:
     - '#FFFFFE'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-80284530-1
   facebook: null
-favicon: null
 name: Highlands Green
+favicon: null
 opengraph:
   image: null
   type: null
