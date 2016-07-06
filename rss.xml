@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nature's Superfoods - Simple and Natural]]></title>
+        <description><![CDATA[Nature's Superfoods - Simple and Natural]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 13:15:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Background]]></title>
+            <description><![CDATA[<article><h1>Background</h1><p>Bags of t-shirts and jeans, baby clothes filled the hallway along with medical and humanitarian supplies in black garbage bags and rice sacks. The faint smell of diesel in the driveway and sturdy men packing the trucks.</p></article>]]></description>
+            <link>undefinedbackground/index.html</link>
+            <guid isPermaLink="false">67140b10-0f7c-4b6c-b729-b30da2c0ca60</guid>
+            <pubDate>Wed, 06 Jul 2016 13:15:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
