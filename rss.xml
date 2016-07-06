@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nature's Superfoods - Simple and Natural]]></title>
         <description><![CDATA[Nature's Superfoods - Simple and Natural]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/highlands-green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:15:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 13:18:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/highlands-green/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Background]]></title>
             <description><![CDATA[<article><h1>Background</h1><p>Bags of t-shirts and jeans, baby clothes filled the hallway along with medical and humanitarian supplies in black garbage bags and rice sacks. The faint smell of diesel in the driveway and sturdy men packing the trucks.</p></article>]]></description>
-            <link>undefinedbackground/index.html</link>
+            <link>https://thegrid.ai/highlands-green/background/index.html</link>
             <guid isPermaLink="false">67140b10-0f7c-4b6c-b729-b30da2c0ca60</guid>
-            <pubDate>Wed, 06 Jul 2016 13:15:37 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2016 13:18:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
