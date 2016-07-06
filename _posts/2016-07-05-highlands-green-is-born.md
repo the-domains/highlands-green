@@ -8,8 +8,8 @@ description: >-
   Bags of t-shirts and jeans, baby clothes filled the hallway along with medical
   and humanitarian supplies in black garbage bags and rice sacks. The faint
   smell of diesel in the driveway and sturdy men packing the trucks.
-datePublished: '2016-07-06T13:15:37.844Z'
-dateModified: '2016-07-06T13:15:06.510Z'
+datePublished: '2016-07-06T13:17:50.859Z'
+dateModified: '2016-07-06T13:15:45.820Z'
 author:
   - name: Nathaniel Heng
     url: 'https://www.youtube.com/user/nateheng'
