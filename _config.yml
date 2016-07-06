@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8619807
   brandStrength: 0.7689713
-  lightness: 0.3972431
+  rhythmicContrast: 0.7915717
   brandColors:
     - '#FFFFFE'
     - '#777776'
     - '#144029'
     - '#54A946'
     - '#C8C8C7'
-  rhythmicContrast: 0.7915717
+  lightness: 0.3972431
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-80284530-1
   facebook: null
-name: Highlands Green
 favicon: null
+name: Highlands Green
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.9323308
-layout_spectrum: 1
+layout_spectrum: 0.2310287
