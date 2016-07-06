@@ -1,6 +1,6 @@
 name: Highlands Green
 favicon: null
-layout_spectrum: 0.9839798
+layout_spectrum: 0.23025
 typography_spectrum: 0.9323308
 title: Highlands Green - Nature's Superfoods
 collections:
@@ -34,8 +34,8 @@ color:
     - '#897c87'
     - '#44b350'
     - '#b3aab1'
-  brandStrength: 0.7689713
-  lightness: 0.6045531
-  saturation: 1
-  rhythmicContrast: 0.8490725
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
